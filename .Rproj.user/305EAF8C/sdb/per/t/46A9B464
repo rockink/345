@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "sales = read.csv(\"data.csv\")\n\n\ncor(sales[\"EU_Sales\"], sales[\"Other_Sales\"])\ncor(sales[\"EU_Sales\"], sales[\"NA_Sales\"])\n\n\n\nplot(sales[,7:11])\ncor(sales[,7:11])\n\n\n#import data \n# descriptive stats\n# corelation\n#prob modelling",
+    "created" : 1510178636690.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1602115530",
+    "id" : "46A9B464",
+    "lastKnownWriteTime" : 1510784307,
+    "last_content_update" : 1510784307218,
+    "path" : "~/345/projectFile.R",
+    "project_path" : "projectFile.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
